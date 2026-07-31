@@ -1,0 +1,13 @@
+{
+  "name": "ai-showdown-backend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Thin proxy that holds the Anthropic API key server-side for the AI Showdown Android app.",
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.2.1"
+  }
+}
